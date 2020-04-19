@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: lower_body
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/Bone
+    m_Weight: 1
+  - m_Path: Armature/Bone/Bone_001
+    m_Weight: 1
+  - m_Path: Armature/Bone/Bone_001/Bone_002
+    m_Weight: 1
+  - m_Path: Armature/Bone/Bone_001/Bone_003_l
+    m_Weight: 0
+  - m_Path: Armature/Bone/Bone_001/Bone_003_l/Bone_004_l
+    m_Weight: 0
+  - m_Path: Armature/Bone/Bone_001/Bone_003_l/Bone_004_l/Bone_005_l
+    m_Weight: 0
+  - m_Path: Armature/Bone/Bone_001/Bone_003_l/Bone_004_l/Bone_005_l/Bone_006_l
+    m_Weight: 0
+  - m_Path: Armature/Bone/Bone_001/Bone_003_r
+    m_Weight: 0
+  - m_Path: Armature/Bone/Bone_001/Bone_003_r/Bone_004_r
+    m_Weight: 0
+  - m_Path: Armature/Bone/Bone_001/Bone_003_r/Bone_004_r/Bone_005_r
+    m_Weight: 0
+  - m_Path: Armature/Bone/Bone_001/Bone_003_r/Bone_004_r/Bone_005_r/Bone_006_r
+    m_Weight: 0
+  - m_Path: Armature/Bone_003
+    m_Weight: 1
+  - m_Path: Armature/Bone_003/Bone_008_l
+    m_Weight: 1
+  - m_Path: Armature/Bone_003/Bone_008_l/Bone_009_l
+    m_Weight: 1
+  - m_Path: Armature/Bone_003/Bone_008_l/Bone_009_l/Bone_010_l
+    m_Weight: 1
+  - m_Path: Armature/Bone_007
+    m_Weight: 1
+  - m_Path: Armature/Bone_007/Bone_008_r
+    m_Weight: 1
+  - m_Path: Armature/Bone_007/Bone_008_r/Bone_009_r
+    m_Weight: 1
+  - m_Path: Armature/Bone_007/Bone_008_r/Bone_009_r/Bone_010_r
+    m_Weight: 1
+  - m_Path: Cube
+    m_Weight: 1
